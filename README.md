@@ -1,4 +1,4 @@
 # apnacollage-demo
-my first git hub repository.
+MY first git hub repository.
 <br>
-author Priyanka Zodage
+Author-Priyanka Zodage
